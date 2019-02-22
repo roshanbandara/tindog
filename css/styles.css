@@ -253,4 +253,7 @@ a {
 	.navbar {
     padding: 0 0 1.5rem;
 	}
+	.navbar-toggler {
+    padding: 0;
+	}
 }
